@@ -39,3 +39,14 @@ The dataset was cleaned by:
 
 - `data/` - Cleaned dataset
 - `sql/` - SQL queries used for cleaning and analysis
+
+## Analysis Screenshots
+
+### Monthly Revenue
+![Monthly Revenue](screenshots/monthly_revenue_analysis.png)
+
+### Monthly Growth
+![Monthly Growth](screenshots/monthly_growth_analysis.png)
+
+### Channel Revenue
+![Channel Revenue](screenshots/channel_revenue_analysis.png)
